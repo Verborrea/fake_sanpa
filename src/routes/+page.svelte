@@ -180,14 +180,14 @@
 		height: 32px;
 	}
 	#hora {
-		font-size: 36px;
-		line-height: 30px;
+		font-size: 42px;
+		line-height: 36px;
 	}
 	.big {
-		font-size: 20px;
+		font-size: 24px;
 	}
 	.small {
-		font-size: 15px;
+		font-size: 18px;
 	}
 	@media (orientation: portrait) {
 		article {
